@@ -75,7 +75,9 @@ Este projeto está licenciado sob a licença MIT.
 
 # O que é Markdown (.md)
 
-O **Markdown** é uma linguagem de marcação leve e de fácil leitura que permite formatar textos de forma simples usando símbolos comuns (como `#`, `*`, `-`, etc.). Arquivos `.md` são amplamente usados para documentação, especialmente no GitHub, pois são renderizados automaticamente como páginas formatadas.
+O **Markdown** é uma linguagem de marcação leve e de fácil leitura que permite formatar textos de forma simples usando símbolos
+comuns (como `#`, `*`, `-`, etc.). Arquivos `.md` são amplamente usados para documentação, especialmente no GitHub,
+pois são renderizados automaticamente como páginas formatadas.
 
 ### Por que o README deve ser em `.md`?
 
