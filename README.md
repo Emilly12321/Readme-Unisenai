@@ -134,7 +134,9 @@ Você pode usar esses códigos diretamente no README.md como `:rocket:` e eles s
 
 É uma das cheat sheets mais completas de emojis.
 
-> Para utilitários do Windows é possível executar no seu teclado o seguinte atalho (No windows) --- :window: + .  --- Dessa forma vai aparesentar uma listagem de emoji para utilizar.
-> Outro site que pode ser utilizado para consultar emojis é o 🌐 : https://emojipedia.org/pt
+---
+Para utilitários do Windows é possível executar no seu teclado o seguinte atalho (No windows) --- :window: + .  --- Dessa forma vai aparesentar uma listagem de emoji para utilizar.
+
+Outro site que pode ser utilizado para consultar emojis é o 🌐 : https://emojipedia.org/pt
 
 
