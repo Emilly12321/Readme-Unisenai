@@ -133,3 +133,5 @@ Você pode usar esses códigos diretamente no README.md como `:rocket:` e eles s
 > 🌐 Acesse: https://github.com/ikatyang/emoji-cheat-sheet
 
 É uma das cheat sheets mais completas de emojis.
+
+Outra forma é executar no seu teclado o seguinte atalho (No windows) --- :window: + .
