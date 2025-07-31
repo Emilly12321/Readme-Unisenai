@@ -69,7 +69,6 @@ Desenvolvido por Seu Nome - [LinkedIn](https://www.linkedin.com/in/seunome)
 ## 📝 Licença
 
 Este projeto está licenciado sob a licença MIT.
-```
 
 ---
 
